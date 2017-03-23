@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "rest-server",
   "version": "1.0.0",
   "description": "",
@@ -10,6 +10,7 @@
   "author": "fet",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "pg": "6.1.5"
   }
 }
